@@ -1,9 +1,0 @@
-Pages\FolderCreationPage.class
-Pages\WelcomePage.class
-Pages\ScalingQuestionsPage.class
-Pages\ContenuPage.class
-Pages\ModelsPage.class
-Pages\LoginPage.class
-Runner\TestRunner.class
-Steps\ContenuTest.class
-Pages\RapportPage.class
