@@ -1,0 +1,21 @@
+[0720/145306.561:ERROR:process_reader_win.cc(151)] SuspendThread: Accès refusé. (0x5)
+[0720/145306.563:ERROR:process_reader_win.cc(151)] SuspendThread: Accès refusé. (0x5)
+[0720/145306.563:ERROR:process_reader_win.cc(151)] SuspendThread: Accès refusé. (0x5)
+[0720/145306.563:ERROR:process_reader_win.cc(151)] SuspendThread: Accès refusé. (0x5)
+[0720/145306.563:ERROR:process_reader_win.cc(123)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[0720/145306.564:ERROR:exception_snapshot_win.cc(98)] thread ID 2660 not found in process
+[0720/145306.570:ERROR:process_reader_win.cc(151)] SuspendThread: Accès refusé. (0x5)
+[0720/145306.570:ERROR:process_reader_win.cc(151)] SuspendThread: Accès refusé. (0x5)
+[0720/145306.571:ERROR:process_reader_win.cc(123)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[0720/145306.571:ERROR:exception_snapshot_win.cc(98)] thread ID 1104 not found in process
+[0720/150436.016:ERROR:process_reader_win.cc(151)] SuspendThread: Accès refusé. (0x5)
+[0720/150436.017:ERROR:process_reader_win.cc(151)] SuspendThread: Accès refusé. (0x5)
+[0720/150436.017:ERROR:process_reader_win.cc(151)] SuspendThread: Accès refusé. (0x5)
+[0720/150436.017:ERROR:process_reader_win.cc(151)] SuspendThread: Accès refusé. (0x5)
+[0720/150436.017:ERROR:process_reader_win.cc(151)] SuspendThread: Accès refusé. (0x5)
+[0720/150436.017:ERROR:process_reader_win.cc(123)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[0720/150436.017:ERROR:exception_snapshot_win.cc(98)] thread ID 5476 not found in process
+[0720/150436.031:ERROR:process_reader_win.cc(151)] SuspendThread: Accès refusé. (0x5)
+[0720/150436.031:ERROR:process_reader_win.cc(151)] SuspendThread: Accès refusé. (0x5)
+[0720/150436.031:ERROR:process_reader_win.cc(123)] NtOpenThread: {Accès refusé} Un processus a demandé l’accès a un objet, mais il ne bénéficie pas des autorisations nécessaires. (0xc0000022)
+[0720/150436.031:ERROR:exception_snapshot_win.cc(98)] thread ID 10872 not found in process
